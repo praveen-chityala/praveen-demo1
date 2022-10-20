@@ -1,0 +1,6 @@
+employe id
+pay
+project
+commision
+branch
+pin code
