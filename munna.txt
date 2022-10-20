@@ -1,3 +1,4 @@
 this is a new file
 name munna
-craeted first commit
+craeted first commit status
+second commit also done
